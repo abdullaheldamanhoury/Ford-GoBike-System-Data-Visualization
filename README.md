@@ -2,12 +2,12 @@
 
 ## Dataset
 
-> There are 183412 trips in the dataset with 16 features (duration_sec , start_time , end_time , start_station_id , start_station_name , start_station_latitude , start_station_longitude , end_station_id , end_station_name , end_station_latitude , end_station_longitude , bike_id , user_type , member_birth_year , member_gender , bike_share_for_all_trip)
+There are 183412 trips in the dataset with 16 features (duration_sec , start_time , end_time , start_station_id , start_station_name , start_station_latitude , start_station_longitude , end_station_id , end_station_name , end_station_latitude , end_station_longitude , bike_id , user_type , member_birth_year , member_gender , bike_share_for_all_trip)
 
 
 ## Summary of Findings
 
-> I depended on some features such as user_type , member_gender , member_birth_year and trips in terms of time andage to answer the next questions :
+I depended on some features such as user_type , member_gender , member_birth_year and trips in terms of time andage to answer the next questions :
 
 <ul>
 <li>When are most trips taken in terms of time ?</li>
